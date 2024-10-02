@@ -7,7 +7,7 @@
 
 ## 2. Наглядное применение динамического программирования (тут о мемоизации и числах Фибоначчи)
 
-<img src="https://latex.codecogs.com/gif.latex?s=\text{sensor reading}"/> 
+![equation](https://latex.codecogs.com/svg.image?%5Csum_%7Bk=1%7D%5E%7Binf%7D)
 
 ## 3. Примеры классических задач
 ### 3.1 Задача о размене монеты
